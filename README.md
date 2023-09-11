@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JCRodriguezguijarro
-- 👀 I’m interested in artificial intelligence and Backend development
-- 🌱 I’m currently learning react, MySQL
+- 👋 Hi, I’m @JCRodriguezguijarro.
+- 👀 I’m interested in artificial intelligence and Backend development.
+- 🌱 I’m currently learning Python,react and MySQL.
 - 📫 How to reach me at jcrodriguezguijarro@gmail.com
 
 <!---
